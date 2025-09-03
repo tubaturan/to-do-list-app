@@ -1,0 +1,38 @@
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\To Do List App.exe.config
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\To Do List App.exe
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\To Do List App.pdb
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Buffers.dll
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Formats.Asn1.dll
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Memory.dll
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Text.Json.dll
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.ValueTuple.dll
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Buffers.xml
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Formats.Asn1.xml
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Memory.xml
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Text.Json.xml
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\System.ValueTuple.xml
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.AssemblyReference.cache
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\obj\Debug\To_Do_List_App.ToDoList.resources
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\obj\Debug\To_Do_List_App.Properties.Resources.resources
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.GenerateResource.cache
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.CoreCompileInputs.cache
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\obj\Debug\To Do Li.3892D372.Up2Date
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\obj\Debug\To Do List App.exe
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\obj\Debug\To Do List App.pdb
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\bin\Debug\st.jpg
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\obj\Debug\To_Do_List_App.LoginForm.resources
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\obj\Debug\To_Do_List_App.SignUpForm.resources
+C:\Users\KULLANICI\Desktop\To Do List App\To Do List App\obj\Debug\To_Do_List_App.ForgotPasswordForm.resources
